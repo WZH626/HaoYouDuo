@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aedc742c-a168-4c93-b972-8484ec5f47a7" name="默认更改列表" comment="">
+      <change beforePath="$PROJECT_DIR$/dubbo_common/dubbo_common.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/model/UserModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/model/UserModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/service/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/util/RedisConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/util/RedisConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/util/RedisUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_common/target/classes/com/jk/util/RedisUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo_comsumer/src/main/java/com/jk/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo_comsumer/src/main/java/com/jk/controller/UserController.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../Five/mavenbao/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="D:\Five\mavenbao\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WHE5wCLQed7aoJdpGPFkpPA1dA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/dubbo_comsumer/src/main/resources/static" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\dubbo_commerce\dubbo_comsumer\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ComsumerApplication">
+    <configuration name="ComsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo_comsumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.ComsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="dubbo_provide" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jk.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\yaoyutong\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="runUnderTerminal" value="true" />
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\dubbo_commerce" />
+          <option name="myCopyRoot" value="D:\dubbo_commerce" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\dubbo_commerce" />
+          <option name="myCopyRoot" value="D:\dubbo_commerce" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aedc742c-a168-4c93-b972-8484ec5f47a7" name="默认更改列表" comment="" />
+      <created>1578797940163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578797940163</updated>
+      <workItem from="1578797944757" duration="2324000" />
+      <workItem from="1578800865483" duration="2784000" />
+      <workItem from="1578810374395" duration="127000" />
+      <workItem from="1581314345066" duration="646000" />
+      <workItem from="1581385334433" duration="7315000" />
+      <workItem from="1581408543120" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+</project>
